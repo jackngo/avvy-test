@@ -1,3 +1,3 @@
 # avvy-test
 
-Quick test
+Example usage for nodejs and gatsby.

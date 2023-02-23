@@ -1,0 +1,1 @@
+Sample @avvy/client usage for typescript + ethers6 in nodejs.
